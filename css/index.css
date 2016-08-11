@@ -37,7 +37,7 @@ body{
 	font-size: 0.5rem;
 	font-family: 微软雅黑;
 	position: absolute;
-	top: -1%;
+	top: 0%;
 	left: 50%;
 	transform:translateX(-50%); 
 	color: #117CA9;
